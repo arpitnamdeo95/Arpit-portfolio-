@@ -207,14 +207,14 @@ body {
       margin-bottom: 2rem; }
     #about .lead {
       font-size: 1.5rem;
-      color: #00ff6c;
+      color: #cd8ac0;
       font-weight: 700;
       margin-bottom: 1.5rem; }
     #about p {
       font-size: 1.25rem;
-      color: #232323; }
+      color: #ea5a72; }
       #about p a {
-        color: #232323;
+        color: #a28cc7;
         text-decoration: underline;
         -webkit-transition: all 0.3s;
         -o-transition: all 0.3s;
@@ -294,7 +294,7 @@ body {
           background-color: #373737; }
           #skills .skill .progress-container .progress .progress-bar {
             height: 1.125rem;
-            background-color: #00ff6c; }
+            background-color: #6a3939; }
   
   #portfolio {
     padding: 5rem 0;
@@ -311,7 +311,7 @@ body {
         right: .75rem;
         bottom: .75rem;
         left: .75rem;
-        background-color: #00ff6c;
+        background-color: #dec7c7;
         padding-top: 4rem;
         opacity: 0;
         -webkit-transition: all .5s;
@@ -319,7 +319,7 @@ body {
         transition: all .5s;
         color: #232323; }
         #portfolio figure figcaption:hover {
-          background-color: rgba(0, 255, 108, 0.6);
+          background-color: rgba(149, 82, 120, 0.6);
           opacity: 1; }
         #portfolio figure figcaption h3 {
           text-transform: uppercase; }
@@ -336,7 +336,7 @@ body {
   
   #contact {
     padding: 5rem 0;
-    background-color: #00ff6c;
+    background-color: #c9cbd4;
     text-align: center; }
     #contact .lead {
       margin-bottom: -.25rem;
@@ -379,7 +379,7 @@ body {
         -o-transition: all .3s;
         transition: all .3s; }
         #footer p a:hover {
-          color: #00ff6c; }
+          color: #7a746b; }
       #footer p .fa-heart {
         color: red; }
   
