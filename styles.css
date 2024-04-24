@@ -200,27 +200,27 @@ body {
     padding: 5rem 0;
     text-align: center; }
     #about img {
-      border: 2px solid #232323;
+      border: 2px solid #000000;
       border-radius: 100%;
       padding: .2rem;
       margin-top: 3rem;
       margin-bottom: 2rem; }
     #about .lead {
       font-size: 1.5rem;
-      color: #cd8ac0;
+      color: #8ba387;
       font-weight: 700;
       margin-bottom: 1.5rem; }
     #about p {
       font-size: 1.25rem;
-      color: #ea5a72; }
+      color: #3fa596; }
       #about p a {
-        color: #a28cc7;
+        color: #c08eaae0;
         text-decoration: underline;
         -webkit-transition: all 0.3s;
         -o-transition: all 0.3s;
         transition: all 0.3s; }
         #about p a:hover {
-          color: #00ff6c; }
+          color: #040404; }
     #about p + p {
       margin-bottom: 2rem; }
   
