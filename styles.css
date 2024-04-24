@@ -264,7 +264,7 @@ body {
     background-color: #232323;
     padding: 5rem 0; }
     #skills h2 {
-      color: #00ff6c;
+      color: #c9cbd4;
       text-align: center; }
     #skills hr {
       margin-bottom: 3rem; }
@@ -294,7 +294,7 @@ body {
           background-color: #373737; }
           #skills .skill .progress-container .progress .progress-bar {
             height: 1.125rem;
-            background-color: #6a3939; }
+            background-color: #5e8581; }
   
   #portfolio {
     padding: 5rem 0;
