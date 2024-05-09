@@ -16,7 +16,7 @@ $(function() {
                 scrollTop: sectionTop
             }, 1500);
         });
-    });
+    });       
   
   
     // Progress Bar Animate
